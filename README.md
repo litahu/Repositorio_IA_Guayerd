@@ -1,7 +1,5 @@
 # 📜 Programa: Fundamentos de Inteligencia artificial en Guayerd
 
-**Beca Completa en Inteligencia Artificial(IA)***, una oportunidad invaluable que me permitió adentrarme en el fascinante mundo de la IA.<br>
-<br>
 El programa resultó ser una experiencia sumamente enriquecedora, ya que combinaba teoría sincrónica y asincrónica. Sin embargo, su verdadero diferencial estuvo en las mentorías en vivo, donde tuve la posibilidad de aprender directamente de profesionales con amplia trayectoria en el área y en el gran acompañamiento de soporte asincrónico.<br>
 
 A continuación, presento el desarrollo de los cuatro desafíos prácticos que reflejan los conocimientos y habilidades adquiridos durante el programa.
