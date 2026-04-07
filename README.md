@@ -1,4 +1,4 @@
-# Programa: Fundamentos de Inteligencia artificial en Guayerd
+# 🦾 Programa: Fundamentos de Inteligencia artificial en Guayerd
 
 El programa resultó ser una experiencia sumamente enriquecedora, ya que combinaba teoría sincrónica y asincrónica. Sin embargo, su verdadero diferencial estuvo en las mentorías en vivo, donde tuve la posibilidad de aprender directamente de profesionales con amplia trayectoria en el área y en el gran acompañamiento de soporte asincrónico.<br>
 
@@ -18,7 +18,7 @@ No | Sprint | Tools | Descripción
 <br>
 
 
-## 🎉 ¡PROYECTO COMPLETADO!
+## ✅ ¡PROYECTO COMPLETADO!
 
 **💙 Guayerd, tu apoyo significo más de lo que puedo expresar, gracias infinitas por creer en mi solicitud.** Fue una oportunidad para crecer, contribuir y dar un paso más significativo en el mundo de la IA.
 
