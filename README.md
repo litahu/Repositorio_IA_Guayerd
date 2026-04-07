@@ -1,4 +1,4 @@
-# 📜 Programa: Fundamentos de Inteligencia artificial en Guayerd
+# Programa: Fundamentos de Inteligencia artificial en Guayerd
 
 El programa resultó ser una experiencia sumamente enriquecedora, ya que combinaba teoría sincrónica y asincrónica. Sin embargo, su verdadero diferencial estuvo en las mentorías en vivo, donde tuve la posibilidad de aprender directamente de profesionales con amplia trayectoria en el área y en el gran acompañamiento de soporte asincrónico.<br>
 
@@ -23,3 +23,5 @@ No | Sprint | Tools | Descripción
 **💙 Guayerd, tu apoyo significo más de lo que puedo expresar, gracias infinitas por creer en mi solicitud.** Fue una oportunidad para crecer, contribuir y dar un paso más significativo en el mundo de la IA.
 
 Se logró desarrollar el análisis completo del proyecto Aurelión en tiempo y forma... un gran acompañamiento: sincrónico y asincrónico 👏 
+
+📜[Certificado de graduación](https://drive.google.com/drive/folders/1eEivp3GBhXkvCQpSfb23IXSVhw3PJlDw)
