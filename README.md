@@ -1,4 +1,4 @@
-# 📜 ** Programa: Fundamentos de Inteligencia artificial en Guayerd**
+# 📜 Programa: Fundamentos de Inteligencia artificial en Guayerd
 
 **Beca Completa en *Inteligencia Artificial(IA)***, una oportunidad invaluable que me permitió adentrarme en el fascinante mundo de la IA.<br>
 <br>
